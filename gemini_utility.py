@@ -18,7 +18,7 @@ GOOGLE_API_KEY = config_data['GOOGLE_API_KEY']
 genai.configure(api_key=GOOGLE_API_KEY)
 
 def load_gemini_pro():
-    gemini_pro_model = genai.GenerativeModel('gemini-pro')
+    gemini_pro_model = genai.GenerativeModel('gemini-1.5-pro-002')
     return gemini_pro_model
 
 def load_gemini_vision_pro_model(promte, image):

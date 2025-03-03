@@ -169,10 +169,3 @@ if selected == "Gemini Health App":
             with col2:
                 st.info(get_response_from_Ai)
     
-    
-
-
-    
-
-
-
