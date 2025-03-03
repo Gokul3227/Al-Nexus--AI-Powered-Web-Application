@@ -27,7 +27,7 @@ A brief description of what this project does and who it's for, This project is 
 
 Clone the repository:
 
-git clone https://github.com/yourusername/ai-multi-feature-app.git
+git clone https://github.com/Gokul3227/Al-Nexus--AI-Powered-Web-Application.git
 cd ai-multi-feature-app
 
 Create a virtual environment and activate it:
